@@ -175,6 +175,10 @@ header-includes:
 
 Освоил процедуры оформления отчетов с помощью языка разметки Markdown
 
+# Ссылка на репозиторий, содержащий отчет о выполнении данной работы
+
+https://github.com/AESoldatov/study_2023-2024_arh-pc/tree/master/labs/lab03/report
+
 # Список литературы{.unnumbered}
 
 ::: {#refs}
